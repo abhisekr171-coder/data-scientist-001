@@ -31,3 +31,16 @@ This data science project predicts the duration of taxi trips in New York City u
 ---
 
 ## 📁 Folder Structure
+nyc-taxi-trip-duration-prediction/
+├── data/                       # Raw or cleaned datasets (not uploaded to GitHub)
+│   └── sample.csv
+├── notebooks/                 # Jupyter notebooks for EDA and modeling
+│   └── nyc_taxi_trip_duration_prediction.ipynb
+├── src/                       # Python scripts (reusable code)
+│   └── nyc_taxi_trip_model.py
+├── outputs/                   # Generated reports, figures, model outputs
+│   └── trip_duration_plot.png
+├── requirements.txt           # Python dependencies
+├── .gitignore                 # Files/folders to ignore in version control
+├── README.md                  # Project overview and instructions
+
