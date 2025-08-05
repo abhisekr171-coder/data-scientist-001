@@ -1,5 +1,4 @@
 # NYC Taxi Trip Duration Prediction 🚕📊
-# NYC Taxi Trip Duration Prediction 🚖📊
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python">
